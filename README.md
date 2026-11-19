@@ -202,4 +202,4 @@ un_service.ps1 -LlmUrl http://<VM_IP>:8000 -LlmKey <key>` → open http://localh
 | `serve.sh`: server did not come up | It prints the log tail; usually no finished run yet, or port 8000 already in use (`tmux kill-session -t serve`) |
 
 Plain HTTP with shared keys is for testing only. Put the APIs behind HTTPS before using real data.
-Thats it..We are ready to
+Thats it..We are ready to go now.
